@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ehozuezu.github.io/Jpk/sitemap_index.txt
+Sitemap: https://ehozuezu.github.io/PQm/sitemap_index.txt
+Sitemap: https://ehozuezu.github.io/Pkp/sitemap_index.txt
+Sitemap: https://ehozuezu.github.io/iAM/sitemap_index.txt
